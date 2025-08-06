@@ -10970,3 +10970,6 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+   p.dline {
+    line-height: 0.5em;
+   }
